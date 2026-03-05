@@ -5,7 +5,7 @@
 ## Технологии
 - ASP.NET Core
 - C#
-- Entity Framework (или in-memory для простоты)
+- Entity Framework
 - REST API (GET/POST/PUT/DELETE)
 
 ## Основные файлы
